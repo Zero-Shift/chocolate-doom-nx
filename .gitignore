@@ -51,3 +51,9 @@ GPATH
 GRTAGS
 GTAGS
 /HTML/
+exefs/main
+*.elf
+*.elf
+*.nro
+*.nso
+*.pfs0
